@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered in Next.js 15 applications when using features not supported in the Edge Runtime. The `index.js` file shows the problematic code, and `index.fixed.js` demonstrates a solution.
